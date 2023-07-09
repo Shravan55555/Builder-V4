@@ -1,6 +1,6 @@
 env:
     MANIFEST: https://github.com/Octavi-Staging/manifest.git -b thirteen
-    DEVICE: X01BD 
+    DEVICE: X01BD
     OEM: asus
     LOCAL_MANIFEST: https://github.com/RT1648/local_manifestt-1
     TARGET: bacon
