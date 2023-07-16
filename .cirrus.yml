@@ -1,11 +1,11 @@
 env:
-    MANIFEST: https://github.com/Havoc-OS/android_manifest.git -b thirteen --git-lfs
+    MANIFEST: https://github.com/PixelOS-AOSP/manifest.git -b thirteen
     DEVICE: X01BD
     OEM: asus
     LOCAL_MANIFEST: https://github.com/RT1648/local_manifestt-1
     TARGET: bacon
-    LUNCH_COMBO: lineage_${DEVICE}-userdebug
-    OUTPUT: H*.zip
+    LUNCH_COMBO: aosp_${DEVICE}-userdebug
+    OUTPUT: P*.zip
     CLO: idl:ci
     CLO_1: ENCRYPTED[6193719ed42029fdc8465e1b6ed0af8ad5cf8b8202cce9668ed3b9841a94039d69a7409c7e7b824cd98dbe0550f42313]
     URI: example.com
