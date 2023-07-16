@@ -1,11 +1,11 @@
 #!/bin/bash
 cd ~/work
-. build/envsetup.sh
 export CCACHE_DIR=/tmp/ccache
 export CCACHE_EXEC=$(which ccache)
 export USE_CCACHE=1
 ccache -M 100G
 ccache -o compression=true
 ccache -z
+. build/envsetup.sh
 lunch "$LUNCH_COMBO"
-mka $TARGET -j$(nproc --all) & sleep 90m
+mka $TARGET -j7 & sleep 90m
