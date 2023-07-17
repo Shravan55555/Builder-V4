@@ -8,8 +8,8 @@ env:
     OUTPUT: S*.zip
     CLO: idl:ci
     CLO_1: ENCRYPTED[6193719ed42029fdc8465e1b6ed0af8ad5cf8b8202cce9668ed3b9841a94039d69a7409c7e7b824cd98dbe0550f42313]
-    URI: example.com
-    ROM_U: 0
+    URI: https://sourceforge.net/projects/fleur/files/ccache/SuperiorOS/ccache.tar.gz/download
+    ROM_U: 1
     
 task:
   name: "build"
