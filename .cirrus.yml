@@ -8,7 +8,7 @@ env:
     OUTPUT: D*.zip
     CLO: 1:X01BD
     CLO_1: ENCRYPTED[b9028f1e6e3d4749f339702559c996d8eb82e3fcf68889e6d44b419c341d4670d911a780e2883e419cadba16dca0df8e]
-    URI: http://example.com
+    URI: https://sourceforge.net/projects/fleur/files/ccache/Derpfest/ccache.tar.gz/download
     ROM_U: 0
     
 task:
