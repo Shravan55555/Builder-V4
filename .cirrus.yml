@@ -3,7 +3,7 @@ env:
     DEVICE: X01BD
     OEM: asus
     LOCAL_MANIFEST: https://github.com/ManitnjG/local_manifest.git
-    TARGET: arrow
+    TARGET: main
     LUNCH_COMBO: arrow_${DEVICE}-userdebug
     OUTPUT: A*.zip
     CLO: 1:X01BD
