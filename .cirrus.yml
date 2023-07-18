@@ -7,9 +7,9 @@ env:
     LUNCH_COMBO: arrow_${DEVICE}-userdebug
     OUTPUT: A*.zip
     CLO: 1:X01BD
-    CLO_1: ENCRYPTED[b9028f1e6e3d4749f339702559c996d8eb82e3fcf68889e6d44b419c341d4670d911a780e2883e419cadba16dca0df8e]
-    URI: https://www.one.com
-    ROM_U: 1
+    CLO_1: ENCRYPTED[e7ab02eedd4bb8522b9025b370b6ddc2ab0df932a38e19078fa21d2ac7df344ed2838a68295978cccb0a8246ef6f822a] 
+    URI: https://www.example.com
+    ROM_U: 0
     
 task:
   name: "build"
