@@ -8,8 +8,8 @@ env:
     OUTPUT: A*.zip
     CLO: 1:X01BD
     CLO_1: ENCRYPTED[e7ab02eedd4bb8522b9025b370b6ddc2ab0df932a38e19078fa21d2ac7df344ed2838a68295978cccb0a8246ef6f822a] 
-    URI: https://www.example.com
-    ROM_U: 0
+    URI: https://drive.google.com/file/d/1jjJJx4bvmNDqp6wrDjuna7YbCjqZfJ5T/view?usp=drivesdk
+    ROM_U: 1
     
 task:
   name: "build"
