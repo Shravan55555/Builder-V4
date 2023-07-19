@@ -6,7 +6,7 @@ env:
     TARGET: bacon
     LUNCH_COMBO: lineage_${DEVICE}-userdebug
     OUTPUT: H*.zip
-    CLO: 1:RMX1901
+    CLO: RMX1901
     CLO_1: ENCRYPTED[!c35442f7f68f714ce56be6c24e86c104f368fb925d77fa70d2b3637e1a7879478029642c0e9d964a2769ed725e122ae5!]
     URI: example.com
     ROM_U: 0
