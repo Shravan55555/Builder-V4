@@ -1,14 +1,14 @@
 env:
-    MANIFEST: https://github.com/ArrowOS/android_manifest.git  -b arrow-11.0
-    DEVICE: X01BD
-    OEM: asus
-    LOCAL_MANIFEST: https://github.com/ManitnjG/local_manifest.git
+    MANIFEST: https://github.com/Havoc-OS/android_manifest.git -b thirteen --git-lfs
+    DEVICE: RMX1901
+    OEM: realme
+    LOCAL_MANIFEST: https://github.com/Shravan55555/local_manifest-1.git
     TARGET: bacon
-    LUNCH_COMBO: arrow_${DEVICE}-userdebug
-    OUTPUT: A*.zip
+    LUNCH_COMBO: lineage_${DEVICE}-userdebug
+    OUTPUT: H*.zip
     CLO: 1:X01BD
     CLO_1: ENCRYPTED[!6d46377e4d6368361243b62bf40bc2cdb7e6cf1f7358140a1448ff3b6faebba771dfb38fffe23fee0e2132be791b77ff!]
-    URI: https://sourceforge.net/projects/manig-x01bd/files/ccache.tar.gz/download
+    URI: https://sourceforge.net/projects/fleur/files/ccache/Havoc/ccache.tar.gz/download
     ROM_U: 1
     
 task:
