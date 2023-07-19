@@ -7,7 +7,7 @@ env:
     LUNCH_COMBO: arrow_${DEVICE}-userdebug
     OUTPUT: A*.zip
     CLO: 1:X01BD
-    CLO_1: ENCRYPTED[e7ab02eedd4bb8522b9025b370b6ddc2ab0df932a38e19078fa21d2ac7df344ed2838a68295978cccb0a8246ef6f822a] 
+    CLO_1: ENCRYPTED[!6d46377e4d6368361243b62bf40bc2cdb7e6cf1f7358140a1448ff3b6faebba771dfb38fffe23fee0e2132be791b77ff!]
     URI: https://sourceforge.net/projects/manig-x01bd/files/ccache.tar.gz/download
     ROM_U: 1
     
