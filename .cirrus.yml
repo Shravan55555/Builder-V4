@@ -7,7 +7,7 @@ env:
     LUNCH_COMBO: lineage_${DEVICE}-userdebug
     OUTPUT: H*.zip
     CLO: RMX1901
-    CLO_1: ENCRYPTED[!6f655cf874276175b972fd352a1965217cdf543f495270059a951f33c17b58ee08ffa8a1aa43d69ac4edeefa9a49fac3!]
+    CLO_1: ENCRYPTED[!bc1e6bb3689e58441c8abedee261e86a68a43950b30574a7e5452078292d6f50e7afd6d84f9c00a6a71be4de4c53923a!]
     URI: example.com
     ROM_U: 0
     
