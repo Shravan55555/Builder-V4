@@ -1,11 +1,11 @@
 env:
-    MANIFEST: https://github.com/alphadroid-project/manifest -b alpha-13 --git-lfs
+    MANIFEST: https://github.com/Octavi-Staging/manifest.git -b thirteen
     DEVICE: RMX1901
     OEM: realme
     LOCAL_MANIFEST: https://github.com/Shravan55555/local_manifest-1.git
     TARGET: bacon
-    LUNCH_COMBO: lineage_${DEVICE}-userdebug
-    OUTPUT: A*.zip
+    LUNCH_COMBO: octavi_${DEVICE}-userdebug
+    OUTPUT: O*.zip
     CLO: RMX1901:AppDrive
     CLO_1: ENCRYPTED[!16f68dd6cd6c746bb67a5d6bdf9b7027db69de8332aa9606f676cff8a20e5990b0d32851a42603b3c26242982572ad36!]
     URI: example.com
