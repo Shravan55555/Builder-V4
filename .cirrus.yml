@@ -1,11 +1,11 @@
 env:
-    MANIFEST: https://github.com/Colt-Enigma/platform_manifest -b c13.1
+    MANIFEST: https://github.com/RisingTechOSS/android -b thirteen --git-lfs
     DEVICE: RMX1901
     OEM: realme
     LOCAL_MANIFEST: https://github.com/Shravan55555/local_manifest-1.git
-    TARGET: colt
-    LUNCH_COMBO: colt_${DEVICE}-userdebug
-    OUTPUT: C*.zip
+    TARGET: bacon
+    LUNCH_COMBO: lineage_${DEVICE}-userdebug
+    OUTPUT: r*.zip
     CLO: RMX1901:AppDrive
     CLO_1: ENCRYPTED[!16f68dd6cd6c746bb67a5d6bdf9b7027db69de8332aa9606f676cff8a20e5990b0d32851a42603b3c26242982572ad36!]
     URI: example.com
