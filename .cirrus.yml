@@ -7,7 +7,7 @@ env:
     LUNCH_COMBO: droidx_${DEVICE}-userdebug
     OUTPUT: d*.zip
     CLO: RMX1901:AppDrive
-    CLO_1: ENCRYPTED[!16f68dd6cd6c746bb67a5d6bdf9b7027db69de8332aa9606f676cff8a20e5990b0d32851a42603b3c26242982572ad36!]
+    CLO_1: ENCRYPTED[!9307771b67b93b458d68c3302aa66582f9574e18ba0f8c6eba8ecf5f2db99ac5f3819eea3eee5c09c71d99a9c6f06054!]
     URI: example.com
     ROM_U: 0
     
